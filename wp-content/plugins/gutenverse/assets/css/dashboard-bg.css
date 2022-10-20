@@ -1,0 +1,8 @@
+#gutenverse-dashboard .rating-panel {
+    background: url('../img/asset_bg.webp');
+}
+
+#gutenverse-dashboard .themelist-panel {
+    background: url('../img/asset_bg_2.webp');
+    background-position-y: center;
+}
